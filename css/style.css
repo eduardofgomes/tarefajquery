@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&family=Titillium+Web:wght@300&display=swap');
+
+body{
+  font-family: 'Titillium Web', sans-serif;
+  
+}
+
+.btn-amarelo {
+    color: #44bd32;
+    border-color: #fff;
+    border-width: 0.15rem;
+    border-radius: 0.8rem;
+    font-size: 1.2rem;
+}
+
+.btn-azul {
+    color: #44bd32;
+    border-color: #fff;
+    border-width: 0.15rem;
+    border-radius: 0.8rem;
+    font-size: 1.2rem;
+}
+
+.btn-verde {
+    color: #44bd32;
+    border-color: #fff;
+    border-width: 0.15rem;
+    border-radius: 0.8rem;
+    font-size: 1.2rem;
+}
+
+.btn-special {
+  color: #44bd32;
+    border-color: #fff;
+    border-width: 0.15rem;
+    border-radius: 0.8rem;
+    font-size: 1.2rem;
+}
+
+.btn-special:hover {
+  background-color: #44bd32;
+  color: #fff;
+  border-color: #44bd32;
+  border-width: 0.15rem;
+  border-radius: 0.8rem;
+  box-shadow: none;
+}
+
+
+
+.cor-personalizada {
+  color: #44bd32;
+}
+
+
+#mylogo {
+  width: 2.5rem;
+}
+
+
+
+/* Dispositivos extra small - xs (telefones em modo retrato, com menos de 576px) */
+@media (max-width: 575.98px) {
+  
+}
+
+/* Dispositivos small - sm (telefones em modo paisagem, com menos de 768px) */
+@media (max-width: 767.98px) {
+    
+}
+
+/* Dispositivos médios - md (tablets com menos de 992px) */
+@media (max-width: 991.98px) {
+  
+}
+
+
+/* Dispositivos large - lg (desktops com menos de 1200px) */
+@media (max-width: 1199.98px) {
+
+}
